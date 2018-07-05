@@ -1,0 +1,6 @@
+name: estafette-gke-node-recycler
+version: 1.0.35
+description: A Kubernetes controller that loops through GKE cluster nodes and kills a node after a configurable amount of time
+home: https://estafette.io/
+sources:
+- https://github.com/estafette/estafette-gke-node-recycler
